@@ -10,3 +10,5 @@ How to move file to the cluster?
 
 How to submit the task?
 
+
+How to get updated version from github reflected on cluster?
